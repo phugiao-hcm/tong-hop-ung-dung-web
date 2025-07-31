@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Landing Page Mỹ phẩm X1",
+        "slug": "my-pham-x1",
+        "thumbnail": "/images/3.png",
+        "demo": "https://myphamx1.vercel.app",
+        "price": "500.000đ",
+        "tags": ["Landing Page", "Mỹ phẩm"],
+        "description": "Landing page bán mỹ phẩm tối ưu mobile, form liên hệ, hiệu ứng đẹp."
+    },
+    {
+        "id": 2,
+        "name": "Trang web thời trang",
+        "slug": "fashion-shop",
+        "thumbnail": "/images/1.png",
+        "demo": "https://fashion-demo.vercel.app",
+        "price": "700.000đ",
+        "tags": ["Shop", "Thời trang"],
+        "description": "Giao diện web bán hàng thời trang chuyên nghiệp, tích hợp giỏ hàng."
+    },
+    {
+        "id": 1,
+        "name": "Landing Page Mỹ phẩm X1",
+        "slug": "my-pham-x1",
+        "thumbnail": "/images/3.png",
+        "demo": "https://myphamx1.vercel.app",
+        "price": "500.000đ",
+        "tags": ["Landing Page", "Mỹ phẩm"],
+        "description": "Landing page bán mỹ phẩm tối ưu mobile, form liên hệ, hiệu ứng đẹp."
+    },
+    {
+        "id": 2,
+        "name": "Trang web thời trang",
+        "slug": "fashion-shop",
+        "thumbnail": "/images/1.png",
+        "demo": "https://fashion-demo.vercel.app",
+        "price": "700.000đ",
+        "tags": ["Shop", "Thời trang"],
+        "description": "Giao diện web bán hàng thời trang chuyên nghiệp, tích hợp giỏ hàng."
+    },
+    {
+        "id": 1,
+        "name": "Landing Page Mỹ phẩm X1",
+        "slug": "my-pham-x1",
+        "thumbnail": "/images/3.png",
+        "demo": "https://myphamx1.vercel.app",
+        "price": "500.000đ",
+        "tags": ["Landing Page", "Mỹ phẩm"],
+        "description": "Landing page bán mỹ phẩm tối ưu mobile, form liên hệ, hiệu ứng đẹp."
+    },
+    {
+        "id": 2,
+        "name": "Trang web thời trang",
+        "slug": "fashion-shop",
+        "thumbnail": "/images/1.png",
+        "demo": "https://fashion-demo.vercel.app",
+        "price": "700.000đ",
+        "tags": ["Shop", "Thời trang"],
+        "description": "Giao diện web bán hàng thời trang chuyên nghiệp, tích hợp giỏ hàng."
+    }
+]
