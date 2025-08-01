@@ -1,62 +1,82 @@
 [
-    {
-        "id": 1,
-        "name": "Landing Page Mỹ phẩm X1",
-        "slug": "my-pham-x1",
-        "thumbnail": "images/3.png",
-        "demo": "https://myphamx1.vercel.app",
-        "price": "500.000đ",
-        "tags": ["Landing Page", "Mỹ phẩm"],
-        "description": "Landing page bán mỹ phẩm tối ưu mobile, form liên hệ, hiệu ứng đẹp."
-    },
-    {
-        "id": 2,
-        "name": "Trang web thời trang",
-        "slug": "fashion-shop",
-        "thumbnail": "images/1.png",
-        "demo": "https://fashion-demo.vercel.app",
-        "price": "700.000đ",
-        "tags": ["Shop", "Thời trang"],
-        "description": "Giao diện web bán hàng thời trang chuyên nghiệp, tích hợp giỏ hàng."
-    },
-    {
-        "id": 1,
-        "name": "Landing Page Mỹ phẩm X1",
-        "slug": "my-pham-x1",
-        "thumbnail": "images/3.png",
-        "demo": "https://myphamx1.vercel.app",
-        "price": "500.000đ",
-        "tags": ["Landing Page", "Mỹ phẩm"],
-        "description": "Landing page bán mỹ phẩm tối ưu mobile, form liên hệ, hiệu ứng đẹp."
-    },
-    {
-        "id": 2,
-        "name": "Trang web thời trang",
-        "slug": "fashion-shop",
-        "thumbnail": "images/1.png",
-        "demo": "https://fashion-demo.vercel.app",
-        "price": "700.000đ",
-        "tags": ["Shop", "Thời trang"],
-        "description": "Giao diện web bán hàng thời trang chuyên nghiệp, tích hợp giỏ hàng."
-    },
-    {
-        "id": 1,
-        "name": "Landing Page Mỹ phẩm X1",
-        "slug": "my-pham-x1",
-        "thumbnail": "images/3.png",
-        "demo": "https://myphamx1.vercel.app",
-        "price": "500.000đ",
-        "tags": ["Landing Page", "Mỹ phẩm"],
-        "description": "Landing page bán mỹ phẩm tối ưu mobile, form liên hệ, hiệu ứng đẹp."
-    },
-    {
-        "id": 2,
-        "name": "Trang web thời trang",
-        "slug": "fashion-shop",
-        "thumbnail": "images/1.png",
-        "demo": "https://fashion-demo.vercel.app",
-        "price": "700.000đ",
-        "tags": ["Shop", "Thời trang"],
-        "description": "Giao diện web bán hàng thời trang chuyên nghiệp, tích hợp giỏ hàng."
-    }
+  {
+    "id": "nails-x1",
+    "title": "Website dịch vụ nails",
+    "price": 700000,
+    "description": "Trang landing page quảng bá mời gọi khách hàng có nhu cầu làm nails, thiết kế responsive.",
+    "image": "/images/1.png",
+    "link": "https://phugiao-hcm.github.io/nails-x1/"
+  },
+  {
+    "id": "my-pham-x1",
+    "title": "Website bán mỹ phẩm",
+    "price": 1200000,
+    "description": "Website bán mỹ phẩm, thanh toán online.",
+    "image": "/images/2.png",
+    "link": "https://phugiao-hcm.github.io/my-pham-x1/"
+  },
+  {
+    "id": "shop-quan-ao-x1",
+    "title": "Website bán quần áo",
+    "price": 1200000,
+    "description": "Website bán quần áo có giỏ hàng, thanh toán online.",
+    "image": "/images/2.png",
+    "link": "https://phugiao-hcm.github.io/shop-quan-ao-x1/"
+  },
+  {
+    "id": "bat-dong-san-x1",
+    "title": "Website bán bất động sản",
+    "price": 2600000,
+    "description": "Website bán bất động sản, thanh toán online.",
+    "image": "/images/2.png",
+    "link": "https://phugiao-hcm.github.io/bat-dong-san-x1/"
+  },
+  {
+    "id": "dien-thoai-x1",
+    "title": "Website bán điện thoại",
+    "price": 1400000,
+    "description": "Website bán điện thoại, thanh toán online.",
+    "image": "/images/2.png",
+    "link": "https://phugiao-hcm.github.io/dien-thoai-x1/"
+  },
+  {
+    "id": "hoa-tuoi-x1",
+    "title": "Website bán hoa tươi",
+    "price": 900000,
+    "description": "Website bán hoa tươi có giỏ hàng, thanh toán online.",
+    "image": "/images/2.png",
+    "link": "https://phugiao-hcm.github.io/hoa-tuoi-x1/"
+  },
+  {
+    "id": "hair-salon-x1",
+    "title": "Website bán tiệm tóc",
+    "price": 400000,
+    "description": "Website bán tiệm tóc có giỏ hàng, thanh toán online.",
+    "image": "/images/2.png",
+    "link": "https://phugiao-hcm.github.io/hair-salon-x1/"
+  },
+  {
+    "id": "noi-that-sofa-x1",
+    "title": "Website bán nội thất Sofa",
+    "price": 2200000,
+    "description": "Website bán nội thất Sofa có giỏ hàng, thanh toán online.",
+    "image": "/images/2.png",
+    "link": "https://phugiao-hcm.github.io/noi-that-sofa-x1/"
+  },
+  {
+    "id": "dao-tao-lai-xe-x1",
+    "title": "Website đào tạo lái xe",
+    "price": 1850000,
+    "description": "Website đào tạo lái xe có giỏ hàng, thanh toán online.",
+    "image": "/images/2.png",
+    "link": "https://phugiao-hcm.github.io/dao-tao-lai-xe-x1/"
+  },
+  {
+    "id": "trai-cay-tuoi-x1",
+    "title": "Website bán trái cây tươi",
+    "price": 900000,
+    "description": "Website bán trái cây tươi có giỏ hàng, thanh toán online.",
+    "image": "/images/2.png",
+    "link": "https://phugiao-hcm.github.io/trai-cay-tuoi-x1/"
+  }
 ]

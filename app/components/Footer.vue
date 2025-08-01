@@ -1,66 +1,82 @@
 <template>
-  <footer class="bg-gray-800 text-white mt-12">
-    <div
-      class="container mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-3 gap-8"
-    >
-      <!-- Logo + giới thiệu -->
-      <div>
-        <h2 class="text-xl font-bold mb-2">Kho Giao Diện Web</h2>
-        <p class="text-sm text-gray-300">
-          Nơi tổng hợp các mẫu giao diện landing page, shop, blog... Thiết kế
-          sẵn, tối ưu SEO và mobile, sẵn sàng dùng ngay.
-        </p>
-      </div>
+    <footer class="bg-gray-900 text-white pt-10 pb-6">
+        <div
+            class="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8"
+        >
+            <!-- Cột 1: Thông tin -->
+            <div>
+                <h2 class="text-xl font-semibold mb-3">Kho Giao Diện Web</h2>
+                <p class="text-gray-400 text-sm">
+                    Cung cấp giao diện website đẹp, dễ chỉnh sửa và phù hợp cho
+                    mọi ngành nghề tại Phú Giáo, Bình Dương.
+                </p>
+            </div>
 
-      <!-- Menu -->
-      <div>
-        <h3 class="text-lg font-semibold mb-2">Menu</h3>
-        <ul class="space-y-1 text-sm text-gray-300">
-          <li><NuxtLink to="/" class="hover:underline">Trang chủ</NuxtLink></li>
-          <li>
-            <NuxtLink to="/websites" class="hover:underline"
-              >Danh sách website</NuxtLink
-            >
-          </li>
-          <li>
-            <NuxtLink to="/about" class="hover:underline">Giới thiệu</NuxtLink>
-          </li>
-          <li>
-            <NuxtLink to="/contact" class="hover:underline">Liên hệ</NuxtLink>
-          </li>
-        </ul>
-      </div>
+            <!-- Cột 2: Liên kết -->
+            <div>
+                <h2 class="text-xl font-semibold mb-3">Liên kết nhanh</h2>
+                <ul class="space-y-2 text-gray-300 text-sm">
+                    <li>
+                        <NuxtLink to="/" class="hover:text-blue-400"
+                            >Trang chủ</NuxtLink
+                        >
+                    </li>
+                    <li>
+                        <NuxtLink to="/websites" class="hover:text-blue-400"
+                            >Danh sách website</NuxtLink
+                        >
+                    </li>
+                    <li>
+                        <NuxtLink to="/about" class="hover:text-blue-400"
+                            >Giới thiệu</NuxtLink
+                        >
+                    </li>
+                    <li>
+                        <NuxtLink to="/contact" class="hover:text-blue-400"
+                            >Liên hệ</NuxtLink
+                        >
+                    </li>
+                </ul>
+            </div>
 
-      <!-- Liên hệ -->
-      <div>
-        <h3 class="text-lg font-semibold mb-2">Liên hệ</h3>
-        <p class="text-sm text-gray-300">
-          Zalo:
-          <a href="https://zalo.me/0937704598" class="underline">0937704598</a>
-        </p>
-        <p class="text-sm text-gray-300">
-          Facebook:
-          <a href="https://fb.com/yourpage" class="underline"
-            >fb.com/yourpage</a
-          >
-        </p>
-        <p class="text-sm text-gray-300">
-          Email:
-          <a href="mailto:yourmail@example.com" class="underline"
-            >yourmail@example.com</a
-          >
-        </p>
-      </div>
-    </div>
+            <!-- Cột 3: Liên hệ -->
+            <div>
+                <h2 class="text-xl font-semibold mb-3">Liên hệ</h2>
+                <ul class="text-gray-300 text-sm space-y-2">
+                    <li>📍 Phước Hòa, Phú Giáo, Bình Dương</li>
+                    <li>
+                        📞
+                        <a href="tel:0937704598" class="hover:text-blue-400"
+                            >0937 704 598</a
+                        >
+                    </li>
+                    <li>
+                        💬
+                        <a
+                            href="https://zalo.me/0937704598"
+                            target="_blank"
+                            class="hover:text-blue-400"
+                            >Zalo: 0937 704 598</a
+                        >
+                    </li>
+                    <li>
+                        📧
+                        <a
+                            href="mailto:your@email.com"
+                            class="hover:text-blue-400"
+                            >Email liên hệ</a
+                        >
+                    </li>
+                </ul>
+            </div>
+        </div>
 
-    <!-- Copyright -->
-    <div class="bg-gray-900 text-center text-sm py-4 text-gray-400">
-      &copy; {{ new Date().getFullYear() }} Kho Giao Diện Web. All rights
-      reserved.
-    </div>
-  </footer>
+        <!-- Copyright -->
+        <div
+            class="text-center text-gray-500 text-sm mt-10 border-t border-gray-700 pt-4"
+        >
+            © {{ new Date().getFullYear() }} Kho Giao Diện Web. All rights
+            reserved.
+        </div>
+    </footer>
 </template>
-
-<script setup>
-// Không cần script nếu không có logic
-</script>
