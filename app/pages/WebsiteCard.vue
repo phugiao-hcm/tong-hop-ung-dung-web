@@ -5,7 +5,7 @@
         <img
             :src="site.image"
             :alt="site.title"
-            class="w-full h-48 object-cover"
+            class="w-full h-58 object-cover"
         />
 
         <div class="p-5">
@@ -18,7 +18,7 @@
             </p>
 
             <div class="flex justify-between items-center">
-                <span class="text-lg font-bold text-blue-600">
+                <span class="text-lg font-bold text-red-600">
                     {{ formatPrice(site.price) }}
                 </span>
 

@@ -4,7 +4,7 @@
     "title": "Website dịch vụ nails",
     "price": 700000,
     "description": "Trang landing page quảng bá mời gọi khách hàng có nhu cầu làm nails, thiết kế responsive.",
-    "image": "/images/1.png",
+    "image": "/images/nails-x1.png",
     "link": "https://phugiao-hcm.github.io/nails-x1/"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Website bán mỹ phẩm",
     "price": 1200000,
     "description": "Website bán mỹ phẩm, thanh toán online.",
-    "image": "/images/2.png",
+    "image": "/images/my-pham-x1.png",
     "link": "https://phugiao-hcm.github.io/my-pham-x1/"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Website bán quần áo",
     "price": 1200000,
     "description": "Website bán quần áo có giỏ hàng, thanh toán online.",
-    "image": "/images/2.png",
+    "image": "/images/shop-quan-ao-x1.png",
     "link": "https://phugiao-hcm.github.io/shop-quan-ao-x1/"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Website bán bất động sản",
     "price": 2600000,
     "description": "Website bán bất động sản, thanh toán online.",
-    "image": "/images/2.png",
+    "image": "/images/bat-dong-san-x1.png",
     "link": "https://phugiao-hcm.github.io/bat-dong-san-x1/"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Website bán điện thoại",
     "price": 1400000,
     "description": "Website bán điện thoại, thanh toán online.",
-    "image": "/images/2.png",
+    "image": "/images/dien-thoai-x1.png",
     "link": "https://phugiao-hcm.github.io/dien-thoai-x1/"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Website bán hoa tươi",
     "price": 900000,
     "description": "Website bán hoa tươi có giỏ hàng, thanh toán online.",
-    "image": "/images/2.png",
+    "image": "/images/hoa-tuoi-x1.png",
     "link": "https://phugiao-hcm.github.io/hoa-tuoi-x1/"
   },
   {
@@ -52,7 +52,7 @@
     "title": "Website bán tiệm tóc",
     "price": 400000,
     "description": "Website bán tiệm tóc có giỏ hàng, thanh toán online.",
-    "image": "/images/2.png",
+    "image": "/images/hair-salon-x1.png",
     "link": "https://phugiao-hcm.github.io/hair-salon-x1/"
   },
   {
@@ -60,7 +60,7 @@
     "title": "Website bán nội thất Sofa",
     "price": 2200000,
     "description": "Website bán nội thất Sofa có giỏ hàng, thanh toán online.",
-    "image": "/images/2.png",
+    "image": "/images/noi-that-sofa-x1.png",
     "link": "https://phugiao-hcm.github.io/noi-that-sofa-x1/"
   },
   {
@@ -68,7 +68,7 @@
     "title": "Website đào tạo lái xe",
     "price": 1850000,
     "description": "Website đào tạo lái xe có giỏ hàng, thanh toán online.",
-    "image": "/images/2.png",
+    "image": "/images/dao-tao-lai-xe-x1.png",
     "link": "https://phugiao-hcm.github.io/dao-tao-lai-xe-x1/"
   },
   {
@@ -76,7 +76,71 @@
     "title": "Website bán trái cây tươi",
     "price": 900000,
     "description": "Website bán trái cây tươi có giỏ hàng, thanh toán online.",
-    "image": "/images/2.png",
+    "image": "/images/trai-cay-tuoi-x1.png",
     "link": "https://phugiao-hcm.github.io/trai-cay-tuoi-x1/"
+  },
+  {
+    "id": "banh-kem-x1",
+    "title": "Website bán Bánh kem",
+    "price": 900000,
+    "description": "Website bán Bánh kem có giỏ hàng, thanh toán online.",
+    "image": "/images/banh-kem-x1.png",
+    "link": "https://phugiao-hcm.github.io/banh-kem-x1/"
+  },
+  {
+    "id": "do-an-vat-x1",
+    "title": "Website bán Đồ Ăn vặt",
+    "price": 900000,
+    "description": "Website bán Đồ Ăn vặt có giỏ hàng, thanh toán online.",
+    "image": "/images/do-an-vat-x1.png",
+    "link": "https://phugiao-hcm.github.io/do-an-vat-x1/"
+  },
+  {
+    "id": "makeup-x1",
+    "title": "Website bán trái cây tươi",
+    "price": 900000,
+    "description": "Website quảng bá Makeup.",
+    "image": "/images/makeup-x1.png",
+    "link": "https://phugiao-hcm.github.io/makeup-x1/"
+  },
+  {
+    "id": "nong-san-x1",
+    "title": "Website bán Nông Sản",
+    "price": 900000,
+    "description": "Website bán Nông Sản có giỏ hàng, thanh toán online.",
+    "image": "/images/nong-san-x1.png",
+    "link": "https://phugiao-hcm.github.io/nong-san-x1/"
+  },
+  {
+    "id": "trang-suc-x1",
+    "title": "Website bán Trang sức",
+    "price": 900000,
+    "description": "Website bán trang sức có giỏ hàng, thanh toán online.",
+    "image": "/images/trang-suc-x1.png",
+    "link": "https://phugiao-hcm.github.io/trang-suc-x1/"
+  },
+  {
+    "id": "gau-bong-x1",
+    "title": "Website bán Gấu Bông",
+    "price": 900000,
+    "description": "Website bán Gấu Bông có giỏ hàng, thanh toán online.",
+    "image": "/images/gau-bong-x1.png",
+    "link": "https://phugiao-hcm.github.io/gau-bong-x1/"
+  },
+  {
+    "id": "o-to-x1",
+    "title": "Website bán Xe Ô Tô",
+    "price": 900000,
+    "description": "Website bán Ô Tô.",
+    "image": "/images/o-to-x1.png",
+    "link": "https://phugiao-hcm.github.io/o-to-x1/"
+  },
+  {
+    "id": "rua-o-to-x1",
+    "title": "Website rửa Xe Ô Tô",
+    "price": 900000,
+    "description": "Website rửa xe Ô Tô.",
+    "image": "/images/rua-o-to-x1.png",
+    "link": "https://phugiao-hcm.github.io/rua-o-to-x1/"
   }
 ]

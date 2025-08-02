@@ -22,8 +22,8 @@
                         >
                     </li>
                     <li>
-                        <NuxtLink to="/websites" class="hover:text-blue-400"
-                            >Danh sách website</NuxtLink
+                        <NuxtLink to="/services" class="hover:text-blue-400"
+                            >Dịch vụ</NuxtLink
                         >
                     </li>
                     <li>
@@ -46,12 +46,6 @@
                     <li>📍 Phước Hòa, Phú Giáo, Bình Dương</li>
                     <li>
                         📞
-                        <a href="tel:0937704598" class="hover:text-blue-400"
-                            >0937 704 598</a
-                        >
-                    </li>
-                    <li>
-                        💬
                         <a
                             href="https://zalo.me/0937704598"
                             target="_blank"
@@ -62,7 +56,7 @@
                     <li>
                         📧
                         <a
-                            href="mailto:your@email.com"
+                            href="mailto:tanthanh1998.phuochoa@gmail.com"
                             class="hover:text-blue-400"
                             >Email liên hệ</a
                         >
