@@ -5,7 +5,7 @@
         >
             <!-- Logo -->
             <NuxtLink to="/" class="text-2xl font-bold text-white">
-                Furni<span class="text-yellow-400">.</span>
+                PhuGiaoWeb<span class="text-yellow-400">.</span>
             </NuxtLink>
 
             <!-- Desktop Menu -->
@@ -112,25 +112,26 @@
             <!-- Left Text -->
             <div>
                 <h1 class="text-4xl md:text-5xl font-bold leading-tight mb-6">
-                    Modern Interior Design<br />Studio
+                    Thiết kế Website<br />Trọn gói
                 </h1>
                 <p class="text-gray-200 mb-8 max-w-lg">
-                    Donec vitae odio quis nisl dapibus malesuada. Nullam ac
-                    aliquet velit. Aliquam vulputate velit imperdiet dolor
-                    tempor tristique.
+                    Bạn đang kinh doanh online, bán hàng, cung cấp dịch vụ…
+                    nhưng thiếu một website riêng để tăng uy tín, thu hút khách
+                    hàng, tối ưu doanh thu?👉 Hãy đầu tư website NGAY HÔM NAY để
+                    khách hàng dễ dàng tìm thấy bạn!
                 </p>
                 <div class="flex gap-4">
                     <NuxtLink
                         to="/shop"
                         class="bg-yellow-400 text-gray-900 font-semibold px-6 py-3 rounded-full hover:bg-yellow-300 transition"
                     >
-                        Shop Now
+                        Bắt đầu
                     </NuxtLink>
                     <NuxtLink
                         to="/explore"
                         class="border border-white text-white font-medium px-6 py-3 rounded-full hover:bg-white hover:text-[#395B50] transition"
                     >
-                        Explore
+                        Khám phá
                     </NuxtLink>
                 </div>
             </div>
@@ -138,9 +139,9 @@
             <!-- Right Image -->
             <div class="relative z-10">
                 <img
-                    src="/images/o-to-x1.png"
+                    src="/images/hero.png"
                     alt="Green Sofa"
-                    class="w-full max-w-md mx-auto md:mx-0 drop-shadow-xl animate-fade-in-up"
+                    class="w-full max-w-md mx-auto md:mx-0 drop-shadow-xl animate-fade-in-up border-4 border-white rounded-lg"
                 />
                 <!-- Dots -->
                 <div class="absolute right-0 top-1/3 hidden md:block">

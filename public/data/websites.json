@@ -97,7 +97,7 @@
   },
   {
     "id": "makeup-x1",
-    "title": "Website bán trái cây tươi",
+    "title": "Website giới thiệu tiệm Makeup",
     "price": 900000,
     "description": "Website quảng bá Makeup.",
     "image": "images/makeup-x1.png",
@@ -142,5 +142,53 @@
     "description": "Website rửa xe Ô Tô.",
     "image": "images/rua-o-to-x1.png",
     "link": "https://phugiao-hcm.github.io/rua-o-to-x1/"
+  },
+  {
+    "id": "do-go-x1",
+    "title": "Website bán đồ gỗ",
+    "price": 900000,
+    "description": "Website bán đồ gỗ.",
+    "image": "images/do-go-x1.png",
+    "link": "https://phugiao-hcm.github.io/do-go-x1/"
+  },
+  {
+    "id": "portfolio-x1",
+    "title": "Website Hồ sơ năng lưc",
+    "price": 900000,
+    "description": "Website hiển thi một bộ sưu tập các tác phẩm, dự án, thành tựu, và thông tin khác thể hiện năng lực, kỹ năng và kinh nghiệm của một cá nhân hoặc tổ chức trong một lĩnh vực cụ thể",
+    "image": "images/portfolio-x1.png",
+    "link": "https://phugiao-hcm.github.io/portfolio-x1/"
+  },
+  {
+    "id": "tieng-trung-x1",
+    "title": "Website Quảng bá Lớp Tiếng Trung",
+    "price": 900000,
+    "description": "Website giới thiệu khóa học tiếng Trung, cung cấp thông tin chi tiết về chương trình học, đội ngũ giảng viên, lịch khai giảng, học phí, cũng như phản hồi từ học viên. Nền tảng giúp học viên tiềm năng dễ dàng tiếp cận, đăng ký và theo dõi các hoạt động, sự kiện liên quan đến lớp học, đồng thời thể hiện uy tín và chất lượng đào tạo của trung tâm.",
+    "image": "images/tieng-trung-x1.png",
+    "link": "https://phugiao-hcm.github.io/tieng-trung-phuoc-hoa/"
+  },
+  {
+    "id": "thiet-ke-nha-x1",
+    "title": "Website Giới Thiệu Dịch Vụ Thiết Kế Nhà Chuyên Nghiệp",
+    "price": 900000,
+    "description": "Website giới thiệu dịch vụ thiết kế nhà ở, biệt thự, và công trình dân dụng với phong cách hiện đại, tối ưu công năng và thẩm mỹ. Cung cấp thông tin về quy trình thiết kế, đội ngũ kiến trúc sư, các dự án đã thực hiện, bảng giá dịch vụ và phản hồi từ khách hàng. Nền tảng giúp khách hàng dễ dàng tham khảo ý tưởng, đặt lịch tư vấn và lựa chọn giải pháp thiết kế phù hợp với nhu cầu và ngân sách.",
+    "image": "images/thiet-ke-nha-x1.png",
+    "link": "https://phugiao-hcm.github.io/thiet-ke-nha-x1/"
+  },
+  {
+    "id": "dich-vu-quang-cao-x1",
+    "title": "Website Dịch Vụ Thiết Kế Banner Quảng Cáo Chuyên Nghiệp",
+    "price": 900000,
+    "description": "Website giới thiệu dịch vụ thiết kế banner quảng cáo chuyên nghiệp, phục vụ đa dạng nền tảng như Facebook, Google, Website, Zalo và các kênh truyền thông khác. Cung cấp thông tin về quy trình làm việc, các mẫu banner đã thực hiện, bảng giá linh hoạt, đội ngũ thiết kế sáng tạo và thời gian hoàn thiện nhanh chóng. Nền tảng giúp khách hàng dễ dàng đặt thiết kế theo yêu cầu, nâng cao hiệu quả truyền thông và gia tăng độ nhận diện thương hiệu.",
+    "image": "images/dich-vu-quang-cao-x1.png",
+    "link": "https://phugiao-hcm.github.io/dich-vu-quang-cao-x1/"
+  },
+  {
+    "id": "dich-vu-nau-an-x1",
+    "title": "Website Dịch Vụ Nấu Ăn Tại Nhà & Đặt Tiệc Chuyên Nghiệp",
+    "price": 900000,
+    "description": "Website giới thiệu dịch vụ nấu ăn theo yêu cầu, nhận đặt tiệc tại nhà, văn phòng hoặc sự kiện với thực đơn phong phú, nguyên liệu tươi ngon và đội ngũ đầu bếp nhiều kinh nghiệm. Khách hàng có thể dễ dàng tham khảo menu, đặt món theo khẩu vị, lên lịch phục vụ và nhận tư vấn thực đơn phù hợp cho từng dịp. Giải pháp lý tưởng cho những ai cần bữa ăn ngon, an toàn và tiện lợi mà không mất thời gian chuẩn bị.",
+    "image": "images/dich-vu-nau-an-x1.png",
+    "link": "https://phugiao-hcm.github.io/dich-vu-nau-an-x1/"
   }
 ]
