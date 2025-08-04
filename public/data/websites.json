@@ -190,5 +190,13 @@
     "description": "Website giới thiệu dịch vụ nấu ăn theo yêu cầu, nhận đặt tiệc tại nhà, văn phòng hoặc sự kiện với thực đơn phong phú, nguyên liệu tươi ngon và đội ngũ đầu bếp nhiều kinh nghiệm. Khách hàng có thể dễ dàng tham khảo menu, đặt món theo khẩu vị, lên lịch phục vụ và nhận tư vấn thực đơn phù hợp cho từng dịp. Giải pháp lý tưởng cho những ai cần bữa ăn ngon, an toàn và tiện lợi mà không mất thời gian chuẩn bị.",
     "image": "images/dich-vu-nau-an-x1.png",
     "link": "https://phugiao-hcm.github.io/dich-vu-nau-an-x1/"
+  },
+  {
+    "id": "ban-son-x1",
+    "title": "Website Son Đẹp Chuẩn Hàn – Tỏa Sáng Mỗi Ngày",
+    "price": 900000,
+    "description": "Website Cập nhật những dòng son hot nhất, giá tốt nhất, giao hàng toàn quốc. Tỏa sáng theo cách của bạn cùng BST son trendy!",
+    "image": "images/ban-son-x1.png",
+    "link": "https://phugiao-hcm.github.io/ban-son-x1/"
   }
 ]
