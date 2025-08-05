@@ -20,15 +20,13 @@
                         class="absolute left-0 -bottom-1 w-full h-[2px] bg-yellow-400 scale-x-0 group-hover:scale-x-100 transition-transform origin-left"
                     ></span>
                 </NuxtLink>
-                <NuxtLink
-                    to="/services"
-                    class="hover:text-yellow-400 transition"
+                <NuxtLink to="/" class="hover:text-yellow-400 transition"
                     >Dịch vụ</NuxtLink
                 >
-                <NuxtLink to="/about" class="hover:text-yellow-400 transition"
+                <NuxtLink to="/" class="hover:text-yellow-400 transition"
                     >Giới thiệu</NuxtLink
                 >
-                <NuxtLink to="/contact" class="hover:text-yellow-400 transition"
+                <NuxtLink to="/" class="hover:text-yellow-400 transition"
                     >Liên hệ</NuxtLink
                 >
             </nav>
@@ -82,19 +80,19 @@
                 >
                 <NuxtLink
                     @click="isOpen = false"
-                    to="/services"
+                    to="/"
                     class="block hover:text-yellow-400"
                     >Dịch vụ</NuxtLink
                 >
                 <NuxtLink
                     @click="isOpen = false"
-                    to="/about"
+                    to="/"
                     class="block hover:text-yellow-400"
                     >Giới thiệu</NuxtLink
                 >
                 <NuxtLink
                     @click="isOpen = false"
-                    to="/contact"
+                    to="/"
                     class="block hover:text-yellow-400"
                     >Liên hệ</NuxtLink
                 >
@@ -122,13 +120,13 @@
                 </p>
                 <div class="flex gap-4">
                     <NuxtLink
-                        to="/shop"
+                        to="/"
                         class="bg-yellow-400 text-gray-900 font-semibold px-6 py-3 rounded-full hover:bg-yellow-300 transition"
                     >
                         Bắt đầu
                     </NuxtLink>
                     <NuxtLink
-                        to="/explore"
+                        to="/"
                         class="border border-white text-white font-medium px-6 py-3 rounded-full hover:bg-white hover:text-[#395B50] transition"
                     >
                         Khám phá
