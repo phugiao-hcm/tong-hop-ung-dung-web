@@ -1,6 +1,7 @@
 <template>
     <div
         class="bg-white rounded-2xl shadow-md hover:shadow-xl transition duration-300 overflow-hidden border border-gray-100"
+        :class="{ 'opacity-60 pointer-events-none': !site.sold }"
     >
         <img
             :src="site.image"
@@ -23,12 +24,17 @@
                 </span>
 
                 <a
-                    :href="site.link"
+                    :href="site.sold ? site.link : '#'"
                     target="_blank"
                     rel="noopener noreferrer"
-                    class="text-white bg-blue-600 hover:bg-blue-700 px-4 py-2 text-sm rounded-lg transition"
+                    class="px-4 py-2 text-sm rounded-lg transition text-white"
+                    :class="
+                        site.sold
+                            ? 'bg-blue-600 hover:bg-blue-700'
+                            : 'bg-gray-400 cursor-not-allowed'
+                    "
                 >
-                    Xem chi tiết
+                    {{ site.sold ? "Xem chi tiết" : "Đang xây dựng" }}
                 </a>
             </div>
         </div>
@@ -45,7 +51,6 @@ const formatPrice = (price) =>
 </script>
 
 <style scoped>
-/* Thêm hiệu ứng cắt dòng nếu muốn gọn gàng */
 .line-clamp-2 {
     display: -webkit-box;
     -webkit-line-clamp: 2;
