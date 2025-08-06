@@ -7,10 +7,22 @@ export default defineNuxtConfig({
     app: {
         baseURL: "/tong-hop-ung-dung-web/", // ⚠️ thay <REPO_NAME> bằng tên repo của bạn
         head: {
+            title: "Website Phú Giáo - Tổng hợp ứng dụng web",
             meta: [
                 {
-                name: 'google-site-verification',
-                content: 'XRR12va6BxhJbOExSUsWvGvZZ9wjdy1N85LFQDGYEeg',
+                    name: "description",
+                    content: "Website Phú Giáo - Tổng hợp các ứng dụng web tiện ích, hữu ích cho người dùng cá nhân và doanh nghiệp.",
+                },
+                {
+                    name: 'google-site-verification',
+                    content: 'XRR12va6BxhJbOExSUsWvGvZZ9wjdy1N85LFQDGYEeg',
+                },
+                {
+                    name: "viewport",
+                    content: "width=device-width, initial-scale=1",
+                },
+                    {
+                    charset: "utf-8",
                 },
             ],
         },
