@@ -19,4 +19,34 @@
 <script setup>
 import WebsiteCard from "./WebsiteCard.vue";
 const { data: websites } = await useFetch("/data/websites.json");
+
+useHead({
+    title: "Thiết Kế Website Phú Giáo – Dịch Vụ Trọn Gói",
+    meta: [
+        {
+            name: "description",
+            content:
+                "Thiết kế website Phú Giáo chuyên nghiệp, uy tín, chuẩn SEO – hỗ trợ doanh nghiệp, cửa hàng kinh doanh hiệu quả hơn.",
+        },
+        {
+            name: "keywords",
+            content:
+                "website Phú Giáo, thiết kế web Phú Giáo, làm web trọn gói, web bán hàng Bình Dương",
+        },
+        {
+            property: "og:title",
+            content: "Thiết Kế Website Phú Giáo – Chuyên Nghiệp & Uy Tín",
+        },
+        {
+            property: "og:description",
+            content:
+                "Dịch vụ thiết kế website tại Phú Giáo giúp bạn sở hữu một trang web đẹp, tối ưu SEO và thu hút khách hàng.",
+        },
+        {
+            property: "og:image",
+            content:
+                "https://phugiao-hcm.github.io/tong-hop-ung-dung-web/images/hero.png",
+        },
+    ],
+});
 </script>
