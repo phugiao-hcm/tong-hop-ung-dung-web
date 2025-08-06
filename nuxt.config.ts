@@ -23,7 +23,7 @@ export default defineNuxtConfig({
     ],
     // ✅ Đây là cấu hình mới đúng chuẩn
     site: {
-        url: 'https://phugiao-hcm.github.io/tong-hop-ung-dung-web', // 🔁 sửa đúng URL GitHub Pages của bạn
+        url: 'https://phugiao-hcm.github.io', // 🔁 sửa đúng URL GitHub Pages của bạn
     },
     sitemap: {
         sitemapName: 'sitemap.xml',
