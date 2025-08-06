@@ -17,7 +17,7 @@
 </template>
 
 <script setup>
-import WebsiteCard from "./WebsiteCard.vue";
+import WebsiteCard from "../components/home/WebsiteCard.vue";
 const { data: websites } = await useFetch("/data/websites.json");
 
 useHead({
