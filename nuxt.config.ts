@@ -15,6 +15,37 @@ export default defineNuxtConfig({
             ],
         },
     },
+
+    modules: [
+        '@nuxtjs/sitemap',
+        '@nuxtjs/robots',
+        '@nuxtjs/seo', // nếu muốn dùng đầy đủ
+    ],
+    // ✅ Đây là cấu hình mới đúng chuẩn
+    site: {
+        url: 'https://phugiao-hcm.github.io/tong-hop-ung-dung-web', // 🔁 sửa đúng URL GitHub Pages của bạn
+    },
+    sitemap: {
+        sitemapName: 'sitemap.xml',
+        exclude: ['/admin/**'],
+    },
+
+
+    robots: {
+        robotsTxt: false,
+    },
+
+    // sitemap: {
+    //     siteUrl: "https://phugiao-hcm.github.io/tong-hop-ung-dung-web", // ✅ Thay domain đúng
+    //     sitemapName: "sitemap.xml",
+    //     gzip: true,
+    //     trailingSlash: false,
+    //     xsl: false, // ✅ Tắt style.xsl để tránh lỗi
+    //     // routes: [
+    //     // "/", "/gioi-thieu", "/lien-he" // thêm các route tĩnh ở đây
+    //     // ],
+    // },
+  
     compatibilityDate: "2025-07-15",
     devtools: { enabled: true },
     css: ["~/assets/css/main.css"],

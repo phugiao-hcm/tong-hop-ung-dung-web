@@ -33,13 +33,10 @@
 
             <!-- Desktop Icons -->
             <div class="hidden md:flex items-center space-x-5 text-xl">
-                <NuxtLink
-                    to="/account"
-                    class="hover:text-yellow-400 transition"
-                >
+                <NuxtLink to="/" class="hover:text-yellow-400 transition">
                     <i class="fas fa-user"></i>
                 </NuxtLink>
-                <NuxtLink to="/cart" class="hover:text-yellow-400 transition">
+                <NuxtLink to="/" class="hover:text-yellow-400 transition">
                     <i class="fas fa-shopping-cart"></i>
                 </NuxtLink>
             </div>
