@@ -6,6 +6,14 @@ export default defineNuxtConfig({
     target: "static", // không bắt buộc nhưng rõ ràng
     app: {
         baseURL: "/tong-hop-ung-dung-web/", // ⚠️ thay <REPO_NAME> bằng tên repo của bạn
+        head: {
+            meta: [
+                {
+                name: 'google-site-verification',
+                content: 'XRR12va6BxhJbOExSUsWvGvZZ9wjdy1N85LFQDGYEeg',
+                },
+            ],
+        },
     },
     compatibilityDate: "2025-07-15",
     devtools: { enabled: true },
