@@ -191,11 +191,11 @@
     {
         "id": "thiet-ke-nha-x1",
         "title": "Website Giới Thiệu Dịch Vụ Thiết Kế Nhà Chuyên Nghiệp",
-        "price": 0,
+        "price": 5200000,
         "description": "Website giới thiệu dịch vụ thiết kế nhà ở, biệt thự, và công trình dân dụng với phong cách hiện đại, tối ưu công năng và thẩm mỹ. Cung cấp thông tin về quy trình thiết kế, đội ngũ kiến trúc sư, các dự án đã thực hiện, bảng giá dịch vụ và phản hồi từ khách hàng. Nền tảng giúp khách hàng dễ dàng tham khảo ý tưởng, đặt lịch tư vấn và lựa chọn giải pháp thiết kế phù hợp với nhu cầu và ngân sách.",
         "image": "images/thiet-ke-nha-x1.png",
         "link": "https://phugiao-hcm.github.io/thiet-ke-nha-x1/",
-        "sold": false
+        "sold": true
     },
     {
         "id": "dich-vu-quang-cao-x1",
