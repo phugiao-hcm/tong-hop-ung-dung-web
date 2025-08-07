@@ -1,218 +1,218 @@
 [
-  {
-    "id": "nails-x1",
-    "title": "Website dịch vụ nails",
-    "price": 799000,
-    "description": "Trang landing page quảng bá mời gọi khách hàng có nhu cầu làm nails, thiết kế responsive.",
-    "image": "images/nails-x1.png",
-    "link": "https://phugiao-hcm.github.io/nails-x1/",
-    "sold": true
-  },
-  {
-    "id": "my-pham-x1",
-    "title": "Website bán mỹ phẩm",
-    "price": 1200000,
-    "description": "Website bán mỹ phẩm, thanh toán online.",
-    "image": "images/my-pham-x1.png",
-    "link": "https://phugiao-hcm.github.io/my-pham-x1/",
-    "sold": true
-  },
-  {
-    "id": "shop-quan-ao-x1",
-    "title": "Website bán quần áo",
-    "price": 1499000,
-    "description": "Website bán quần áo có giỏ hàng, thanh toán online.",
-    "image": "images/shop-quan-ao-x1.png",
-    "link": "https://phugiao-hcm.github.io/shop-quan-ao-x1/",
-    "sold": true
-  },
-  {
-    "id": "bat-dong-san-x1",
-    "title": "Website bán bất động sản",
-    "price": 2499000,
-    "description": "Website bán bất động sản, thanh toán online.",
-    "image": "images/bat-dong-san-x1.png",
-    "link": "https://phugiao-hcm.github.io/bat-dong-san-x1/",
-    "sold": true
-  },
-  {
-    "id": "dien-thoai-x1",
-    "title": "Website bán điện thoại",
-    "price": 1499000,
-    "description": "Website bán điện thoại, thanh toán online.",
-    "image": "images/dien-thoai-x1.png",
-    "link": "https://phugiao-hcm.github.io/dien-thoai-x1/",
-    "sold": true
-  },
-  {
-    "id": "hoa-tuoi-x1",
-    "title": "Website bán hoa tươi",
-    "price": 1199000,
-    "description": "Website bán hoa tươi có giỏ hàng, thanh toán online.",
-    "image": "images/hoa-tuoi-x1.png",
-    "link": "https://phugiao-hcm.github.io/hoa-tuoi-x1/",
-    "sold": true
-  },
-  {
-    "id": "hair-salon-x1",
-    "title": "Website bán tiệm tóc",
-    "price": 799000,
-    "description": "Website bán tiệm tóc có giỏ hàng, thanh toán online.",
-    "image": "images/hair-salon-x1.png",
-    "link": "https://phugiao-hcm.github.io/hair-salon-x1/",
-    "sold": true
-  },
-  {
-    "id": "noi-that-sofa-x1",
-    "title": "Website bán nội thất Sofa",
-    "price": 3200000,
-    "description": "Website bán nội thất Sofa có giỏ hàng, thanh toán online.",
-    "image": "images/noi-that-sofa-x1.png",
-    "link": "https://phugiao-hcm.github.io/noi-that-sofa-x1/",
-    "sold": true
-  },
-  {
-    "id": "dao-tao-lai-xe-x1",
-    "title": "Website đào tạo lái xe",
-    "price": 1850000,
-    "description": "Website đào tạo lái xe có giỏ hàng, thanh toán online.",
-    "image": "images/dao-tao-lai-xe-x1.png",
-    "link": "https://phugiao-hcm.github.io/dao-tao-lai-xe-x1/",
-    "sold": true
-  },
-  {
-    "id": "trai-cay-tuoi-x1",
-    "title": "Website bán trái cây tươi",
-    "price": 1499000,
-    "description": "Website bán trái cây tươi có giỏ hàng, thanh toán online.",
-    "image": "images/trai-cay-tuoi-x1.png",
-    "link": "https://phugiao-hcm.github.io/trai-cay-tuoi-x1/",
-    "sold": true
-  },
-  {
-    "id": "banh-kem-x1",
-    "title": "Website bán Bánh kem",
-    "price": 950000,
-    "description": "Website bán Bánh kem có giỏ hàng, thanh toán online.",
-    "image": "images/banh-kem-x1.png",
-    "link": "https://phugiao-hcm.github.io/banh-kem-x1/",
-    "sold": true
-  },
-  {
-    "id": "tieng-trung-x1",
-    "title": "Website Quảng bá Lớp Tiếng Trung",
-    "price": 799000,
-    "description": "Website giới thiệu khóa học tiếng Trung, cung cấp thông tin chi tiết về chương trình học, đội ngũ giảng viên, lịch khai giảng, học phí, cũng như phản hồi từ học viên. Nền tảng giúp học viên tiềm năng dễ dàng tiếp cận, đăng ký và theo dõi các hoạt động, sự kiện liên quan đến lớp học, đồng thời thể hiện uy tín và chất lượng đào tạo của trung tâm.",
-    "image": "images/tieng-trung-x1.png",
-    "link": "https://phugiao-hcm.github.io/tieng-trung-phuoc-hoa/",
-    "sold": true
-  },
-  {
-    "id": "makeup-x1",
-    "title": "Website giới thiệu tiệm Makeup",
-    "price": 799000,
-    "description": "Website quảng bá Makeup.",
-    "image": "images/makeup-x1.png",
-    "link": "https://phugiao-hcm.github.io/makeup-x1/",
-    "sold": true
-  },
-   {
-    "id": "ban-son-x1",
-    "title": "Website Son Đẹp Chuẩn Hàn – Tỏa Sáng Mỗi Ngày",
-    "price": 1499000,
-    "description": "Website Cập nhật những dòng son hot nhất, giá tốt nhất, giao hàng toàn quốc. Tỏa sáng theo cách của bạn cùng BST son trendy!",
-    "image": "images/ban-son-x1.png",
-    "link": "https://phugiao-hcm.github.io/ban-son-x1/",
-    "sold": true
-  },
-  {
-    "id": "trang-suc-x1",
-    "title": "Website bán Trang sức",
-    "price": 2200000,
-    "description": "Website bán trang sức có giỏ hàng, thanh toán online.",
-    "image": "images/trang-suc-x1.png",
-    "link": "https://phugiao-hcm.github.io/trang-suc-x1/",
-    "sold": true
-  },
-  {
-    "id": "gau-bong-x1",
-    "title": "Website bán Gấu Bông",
-    "price": 0,
-    "description": "Website bán Gấu Bông có giỏ hàng, thanh toán online.",
-    "image": "images/gau-bong-x1.png",
-    "link": "https://phugiao-hcm.github.io/gau-bong-x1/",
-    "sold": false
-  },
-  {
-    "id": "nong-san-x1",
-    "title": "Website bán Nông Sản",
-    "price": 0,
-    "description": "Website bán Nông Sản có giỏ hàng, thanh toán online.",
-    "image": "images/nong-san-x1.png",
-    "link": "https://phugiao-hcm.github.io/nong-san-x1/",
-    "sold": false
-  },
-  {
-    "id": "o-to-x1",
-    "title": "Website bán Xe Ô Tô",
-    "price": 0,
-    "description": "Website bán Ô Tô.",
-    "image": "images/o-to-x1.png",
-    "link": "https://phugiao-hcm.github.io/o-to-x1/",
-    "sold": false
-  },
-  {
-    "id": "rua-o-to-x1",
-    "title": "Website rửa Xe Ô Tô",
-    "price": 0,
-    "description": "Website rửa xe Ô Tô.",
-    "image": "images/rua-o-to-x1.png",
-    "link": "https://phugiao-hcm.github.io/rua-o-to-x1/",
-    "sold": false
-  },
-  {
-    "id": "do-go-x1",
-    "title": "Website bán đồ gỗ",
-    "price": 0,
-    "description": "Website bán đồ gỗ.",
-    "image": "images/do-go-x1.png",
-    "link": "https://phugiao-hcm.github.io/do-go-x1/",
-    "sold": false
-  },
-  {
-    "id": "portfolio-x1",
-    "title": "Website Hồ sơ năng lưc",
-    "price": 0,
-    "description": "Website hiển thi một bộ sưu tập các tác phẩm, dự án, thành tựu, và thông tin khác thể hiện năng lực, kỹ năng và kinh nghiệm của một cá nhân hoặc tổ chức trong một lĩnh vực cụ thể",
-    "image": "images/portfolio-x1.png",
-    "link": "https://phugiao-hcm.github.io/portfolio-x1/",
-    "sold": false
-  },
-  {
-    "id": "thiet-ke-nha-x1",
-    "title": "Website Giới Thiệu Dịch Vụ Thiết Kế Nhà Chuyên Nghiệp",
-    "price": 0,
-    "description": "Website giới thiệu dịch vụ thiết kế nhà ở, biệt thự, và công trình dân dụng với phong cách hiện đại, tối ưu công năng và thẩm mỹ. Cung cấp thông tin về quy trình thiết kế, đội ngũ kiến trúc sư, các dự án đã thực hiện, bảng giá dịch vụ và phản hồi từ khách hàng. Nền tảng giúp khách hàng dễ dàng tham khảo ý tưởng, đặt lịch tư vấn và lựa chọn giải pháp thiết kế phù hợp với nhu cầu và ngân sách.",
-    "image": "images/thiet-ke-nha-x1.png",
-    "link": "https://phugiao-hcm.github.io/thiet-ke-nha-x1/",
-    "sold": false
-  },
-  {
-    "id": "dich-vu-quang-cao-x1",
-    "title": "Website Dịch Vụ Thiết Kế Banner Quảng Cáo Chuyên Nghiệp",
-    "price": 0,
-    "description": "Website giới thiệu dịch vụ thiết kế banner quảng cáo chuyên nghiệp, phục vụ đa dạng nền tảng như Facebook, Google, Website, Zalo và các kênh truyền thông khác. Cung cấp thông tin về quy trình làm việc, các mẫu banner đã thực hiện, bảng giá linh hoạt, đội ngũ thiết kế sáng tạo và thời gian hoàn thiện nhanh chóng. Nền tảng giúp khách hàng dễ dàng đặt thiết kế theo yêu cầu, nâng cao hiệu quả truyền thông và gia tăng độ nhận diện thương hiệu.",
-    "image": "images/dich-vu-quang-cao-x1.png",
-    "link": "https://phugiao-hcm.github.io/dich-vu-quang-cao-x1/",
-    "sold": false
-  },
-  {
-    "id": "dich-vu-nau-an-x1",
-    "title": "Website Dịch Vụ Nấu Ăn Tại Nhà & Đặt Tiệc Chuyên Nghiệp",
-    "price": 0,
-    "description": "Website giới thiệu dịch vụ nấu ăn theo yêu cầu, nhận đặt tiệc tại nhà, văn phòng hoặc sự kiện với thực đơn phong phú, nguyên liệu tươi ngon và đội ngũ đầu bếp nhiều kinh nghiệm. Khách hàng có thể dễ dàng tham khảo menu, đặt món theo khẩu vị, lên lịch phục vụ và nhận tư vấn thực đơn phù hợp cho từng dịp. Giải pháp lý tưởng cho những ai cần bữa ăn ngon, an toàn và tiện lợi mà không mất thời gian chuẩn bị.",
-    "image": "images/dich-vu-nau-an-x1.png",
-    "link": "https://phugiao-hcm.github.io/dich-vu-nau-an-x1/",
-    "sold": false
-  }
+    {
+        "id": "nails-x1",
+        "title": "Website dịch vụ nails",
+        "price": 799000,
+        "description": "Trang landing page quảng bá mời gọi khách hàng có nhu cầu làm nails, thiết kế responsive.",
+        "image": "images/nails-x1.png",
+        "link": "https://phugiao-hcm.github.io/nails-x1/",
+        "sold": true
+    },
+    {
+        "id": "my-pham-x1",
+        "title": "Website bán mỹ phẩm",
+        "price": 1200000,
+        "description": "Website bán mỹ phẩm, thanh toán online.",
+        "image": "images/my-pham-x1.png",
+        "link": "https://phugiao-hcm.github.io/my-pham-x1/",
+        "sold": true
+    },
+    {
+        "id": "shop-quan-ao-x1",
+        "title": "Website bán quần áo",
+        "price": 1499000,
+        "description": "Website bán quần áo có giỏ hàng, thanh toán online.",
+        "image": "images/shop-quan-ao-x1.png",
+        "link": "https://phugiao-hcm.github.io/shop-quan-ao-x1/",
+        "sold": true
+    },
+    {
+        "id": "bat-dong-san-x1",
+        "title": "Website bán bất động sản",
+        "price": 2499000,
+        "description": "Website bán bất động sản, thanh toán online.",
+        "image": "images/bat-dong-san-x1.png",
+        "link": "https://phugiao-hcm.github.io/bat-dong-san-x1/",
+        "sold": true
+    },
+    {
+        "id": "dien-thoai-x1",
+        "title": "Website bán điện thoại",
+        "price": 1499000,
+        "description": "Website bán điện thoại, thanh toán online.",
+        "image": "images/dien-thoai-x1.png",
+        "link": "https://phugiao-hcm.github.io/dien-thoai-x1/",
+        "sold": true
+    },
+    {
+        "id": "hoa-tuoi-x1",
+        "title": "Website bán hoa tươi",
+        "price": 1199000,
+        "description": "Website bán hoa tươi có giỏ hàng, thanh toán online.",
+        "image": "images/hoa-tuoi-x1.png",
+        "link": "https://phugiao-hcm.github.io/hoa-tuoi-x1/",
+        "sold": true
+    },
+    {
+        "id": "hair-salon-x1",
+        "title": "Website bán tiệm tóc",
+        "price": 799000,
+        "description": "Website bán tiệm tóc có giỏ hàng, thanh toán online.",
+        "image": "images/hair-salon-x1.png",
+        "link": "https://phugiao-hcm.github.io/hair-salon-x1/",
+        "sold": true
+    },
+    {
+        "id": "noi-that-sofa-x1",
+        "title": "Website bán nội thất Sofa",
+        "price": 3200000,
+        "description": "Website bán nội thất Sofa có giỏ hàng, thanh toán online.",
+        "image": "images/noi-that-sofa-x1.png",
+        "link": "https://phugiao-hcm.github.io/noi-that-sofa-x1/",
+        "sold": true
+    },
+    {
+        "id": "dao-tao-lai-xe-x1",
+        "title": "Website đào tạo lái xe",
+        "price": 1850000,
+        "description": "Website đào tạo lái xe có giỏ hàng, thanh toán online.",
+        "image": "images/dao-tao-lai-xe-x1.png",
+        "link": "https://phugiao-hcm.github.io/dao-tao-lai-xe-x1/",
+        "sold": true
+    },
+    {
+        "id": "trai-cay-tuoi-x1",
+        "title": "Website bán trái cây tươi",
+        "price": 1499000,
+        "description": "Website bán trái cây tươi có giỏ hàng, thanh toán online.",
+        "image": "images/trai-cay-tuoi-x1.png",
+        "link": "https://phugiao-hcm.github.io/trai-cay-tuoi-x1/",
+        "sold": true
+    },
+    {
+        "id": "banh-kem-x1",
+        "title": "Website bán Bánh kem",
+        "price": 950000,
+        "description": "Website bán Bánh kem có giỏ hàng, thanh toán online.",
+        "image": "images/banh-kem-x1.png",
+        "link": "https://phugiao-hcm.github.io/banh-kem-x1/",
+        "sold": true
+    },
+    {
+        "id": "tieng-trung-x1",
+        "title": "Website Quảng bá Lớp Tiếng Trung",
+        "price": 799000,
+        "description": "Website giới thiệu khóa học tiếng Trung, cung cấp thông tin chi tiết về chương trình học, đội ngũ giảng viên, lịch khai giảng, học phí, cũng như phản hồi từ học viên. Nền tảng giúp học viên tiềm năng dễ dàng tiếp cận, đăng ký và theo dõi các hoạt động, sự kiện liên quan đến lớp học, đồng thời thể hiện uy tín và chất lượng đào tạo của trung tâm.",
+        "image": "images/tieng-trung-x1.png",
+        "link": "https://phugiao-hcm.github.io/tieng-trung-phuoc-hoa/",
+        "sold": true
+    },
+    {
+        "id": "makeup-x1",
+        "title": "Website giới thiệu tiệm Makeup",
+        "price": 799000,
+        "description": "Website quảng bá Makeup.",
+        "image": "images/makeup-x1.png",
+        "link": "https://phugiao-hcm.github.io/makeup-x1/",
+        "sold": true
+    },
+    {
+        "id": "ban-son-x1",
+        "title": "Website Son Đẹp Chuẩn Hàn – Tỏa Sáng Mỗi Ngày",
+        "price": 1499000,
+        "description": "Website Cập nhật những dòng son hot nhất, giá tốt nhất, giao hàng toàn quốc. Tỏa sáng theo cách của bạn cùng BST son trendy!",
+        "image": "images/ban-son-x1.png",
+        "link": "https://phugiao-hcm.github.io/ban-son-x1/",
+        "sold": true
+    },
+    {
+        "id": "trang-suc-x1",
+        "title": "Website bán Trang sức",
+        "price": 2200000,
+        "description": "Website bán trang sức có giỏ hàng, thanh toán online.",
+        "image": "images/trang-suc-x1.png",
+        "link": "https://phugiao-hcm.github.io/trang-suc-x1/",
+        "sold": true
+    },
+    {
+        "id": "gau-bong-x1",
+        "title": "Website bán Gấu Bông",
+        "price": 0,
+        "description": "Website bán Gấu Bông có giỏ hàng, thanh toán online.",
+        "image": "images/gau-bong-x1.png",
+        "link": "https://phugiao-hcm.github.io/gau-bong-x1/",
+        "sold": false
+    },
+    {
+        "id": "nong-san-x1",
+        "title": "Website bán Nông Sản",
+        "price": 0,
+        "description": "Website bán Nông Sản có giỏ hàng, thanh toán online.",
+        "image": "images/nong-san-x1.png",
+        "link": "https://phugiao-hcm.github.io/nong-san-x1/",
+        "sold": false
+    },
+    {
+        "id": "o-to-x1",
+        "title": "Website bán Xe Ô Tô",
+        "price": 0,
+        "description": "Website bán Ô Tô.",
+        "image": "images/o-to-x1.png",
+        "link": "https://phugiao-hcm.github.io/o-to-x1/",
+        "sold": false
+    },
+    {
+        "id": "rua-o-to-x1",
+        "title": "Website rửa Xe Ô Tô",
+        "price": 0,
+        "description": "Website rửa xe Ô Tô.",
+        "image": "images/rua-o-to-x1.png",
+        "link": "https://phugiao-hcm.github.io/rua-o-to-x1/",
+        "sold": true
+    },
+    {
+        "id": "do-go-x1",
+        "title": "Website bán đồ gỗ",
+        "price": 0,
+        "description": "Website bán đồ gỗ.",
+        "image": "images/do-go-x1.png",
+        "link": "https://phugiao-hcm.github.io/do-go-x1/",
+        "sold": false
+    },
+    {
+        "id": "portfolio-x1",
+        "title": "Website Hồ sơ năng lưc",
+        "price": 0,
+        "description": "Website hiển thi một bộ sưu tập các tác phẩm, dự án, thành tựu, và thông tin khác thể hiện năng lực, kỹ năng và kinh nghiệm của một cá nhân hoặc tổ chức trong một lĩnh vực cụ thể",
+        "image": "images/portfolio-x1.png",
+        "link": "https://phugiao-hcm.github.io/portfolio-x1/",
+        "sold": false
+    },
+    {
+        "id": "thiet-ke-nha-x1",
+        "title": "Website Giới Thiệu Dịch Vụ Thiết Kế Nhà Chuyên Nghiệp",
+        "price": 0,
+        "description": "Website giới thiệu dịch vụ thiết kế nhà ở, biệt thự, và công trình dân dụng với phong cách hiện đại, tối ưu công năng và thẩm mỹ. Cung cấp thông tin về quy trình thiết kế, đội ngũ kiến trúc sư, các dự án đã thực hiện, bảng giá dịch vụ và phản hồi từ khách hàng. Nền tảng giúp khách hàng dễ dàng tham khảo ý tưởng, đặt lịch tư vấn và lựa chọn giải pháp thiết kế phù hợp với nhu cầu và ngân sách.",
+        "image": "images/thiet-ke-nha-x1.png",
+        "link": "https://phugiao-hcm.github.io/thiet-ke-nha-x1/",
+        "sold": false
+    },
+    {
+        "id": "dich-vu-quang-cao-x1",
+        "title": "Website Dịch Vụ Thiết Kế Banner Quảng Cáo Chuyên Nghiệp",
+        "price": 0,
+        "description": "Website giới thiệu dịch vụ thiết kế banner quảng cáo chuyên nghiệp, phục vụ đa dạng nền tảng như Facebook, Google, Website, Zalo và các kênh truyền thông khác. Cung cấp thông tin về quy trình làm việc, các mẫu banner đã thực hiện, bảng giá linh hoạt, đội ngũ thiết kế sáng tạo và thời gian hoàn thiện nhanh chóng. Nền tảng giúp khách hàng dễ dàng đặt thiết kế theo yêu cầu, nâng cao hiệu quả truyền thông và gia tăng độ nhận diện thương hiệu.",
+        "image": "images/dich-vu-quang-cao-x1.png",
+        "link": "https://phugiao-hcm.github.io/dich-vu-quang-cao-x1/",
+        "sold": false
+    },
+    {
+        "id": "dich-vu-nau-an-x1",
+        "title": "Website Dịch Vụ Nấu Ăn Tại Nhà & Đặt Tiệc Chuyên Nghiệp",
+        "price": 0,
+        "description": "Website giới thiệu dịch vụ nấu ăn theo yêu cầu, nhận đặt tiệc tại nhà, văn phòng hoặc sự kiện với thực đơn phong phú, nguyên liệu tươi ngon và đội ngũ đầu bếp nhiều kinh nghiệm. Khách hàng có thể dễ dàng tham khảo menu, đặt món theo khẩu vị, lên lịch phục vụ và nhận tư vấn thực đơn phù hợp cho từng dịp. Giải pháp lý tưởng cho những ai cần bữa ăn ngon, an toàn và tiện lợi mà không mất thời gian chuẩn bị.",
+        "image": "images/dich-vu-nau-an-x1.png",
+        "link": "https://phugiao-hcm.github.io/dich-vu-nau-an-x1/",
+        "sold": false
+    }
 ]
