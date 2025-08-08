@@ -173,11 +173,11 @@
     {
         "id": "do-go-x1",
         "title": "Website bán đồ gỗ",
-        "price": 0,
-        "description": "Website bán đồ gỗ.",
+        "price": 11000000,
+        "description": "Website bán đồ gỗ sản phẩm thủ công tinh xảo & sang trọng cho không gian sống.",
         "image": "images/do-go-x1.png",
         "link": "https://phugiao-hcm.github.io/do-go-x1/",
-        "sold": false
+        "sold": true
     },
     {
         "id": "portfolio-x1",
