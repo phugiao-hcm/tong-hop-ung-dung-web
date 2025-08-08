@@ -28,7 +28,7 @@ export default defineNuxtConfig({
                 {
                     property: "og:image",
                     content:
-                        "https://phugiao-hcm.github.io/tong-hop-ung-dung-web/og-image.png",
+                        "https://phugiao-hcm.github.io/tong-hop-ung-dung-web/images/og-image.png",
                 },
                 {
                     property: "og:url",
@@ -51,7 +51,7 @@ export default defineNuxtConfig({
                 {
                     name: "twitter:image",
                     content:
-                        "https://phugiao-hcm.github.io/tong-hop-ung-dung-web/og-image.png",
+                        "https://phugiao-hcm.github.io/tong-hop-ung-dung-web/images/og-image.png",
                 },
             ],
         },
