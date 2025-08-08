@@ -7,23 +7,56 @@ export default defineNuxtConfig({
     app: {
         baseURL: "/tong-hop-ung-dung-web/", // ⚠️ thay <REPO_NAME> bằng tên repo của bạn
         head: {
-            title: "Website Phú Giáo - Tổng hợp ứng dụng web",
+            title: "T&T Shop - Thiết kế website chuyên nghiệp",
             meta: [
-                {
-                    name: "description",
-                    content:
-                        "Website Phú Giáo - Tổng hợp các ứng dụng web tiện ích, hữu ích cho người dùng cá nhân và doanh nghiệp.",
-                },
                 {
                     name: "google-site-verification",
                     content: "XRR12va6BxhJbOExSUsWvGvZZ9wjdy1N85LFQDGYEeg",
                 },
+
+                // SEO chính
+                {
+                    name: "description",
+                    content:
+                        "T&T Shop cung cấp dịch vụ thiết kế website chuyên nghiệp cho cá nhân và doanh nghiệp. Giao diện hiện đại, chuẩn SEO, dễ quản lý, giá hợp lý.",
+                },
+                {
+                    name: "keywords",
+                    content:
+                        "T&T Shop, thiết kế website, thiết kế web doanh nghiệp, làm web cá nhân, giao diện đẹp, chuẩn SEO",
+                },
+                {
+                    property: "og:title",
+                    content: "T&T Shop - Thiết kế website chuyên nghiệp",
+                },
+                {
+                    property: "og:description",
+                    content:
+                        "T&T Shop chuyên thiết kế website cho cá nhân và doanh nghiệp.",
+                },
+
+                // Viewport
                 {
                     name: "viewport",
                     content: "width=device-width, initial-scale=1",
                 },
                 {
                     charset: "utf-8",
+                },
+
+                // Open Graph (Facebook, Zalo)
+                {
+                    property: "og:type",
+                    content: "website",
+                },
+                {
+                    property: "og:title",
+                    content: "T&T Shop - Thiết kế website chuyên nghiệp",
+                },
+                {
+                    property: "og:description",
+                    content:
+                        "Thiết kế website cho cá nhân và doanh nghiệp với giao diện đẹp, tốc độ cao và tối ưu SEO.",
                 },
                 {
                     property: "og:image",
@@ -35,18 +68,20 @@ export default defineNuxtConfig({
                     content:
                         "https://phugiao-hcm.github.io/tong-hop-ung-dung-web/",
                 },
+
+                // Twitter Card
                 {
                     name: "twitter:card",
                     content: "summary_large_image",
                 },
                 {
                     name: "twitter:title",
-                    content: "Website Phú Giáo - Tổng hợp ứng dụng web",
+                    content: "T&T Shop - Thiết kế website chuyên nghiệp",
                 },
                 {
                     name: "twitter:description",
                     content:
-                        "Website Phú Giáo - Tổng hợp các ứng dụng web tiện ích, hữu ích cho người dùng cá nhân và doanh nghiệp.",
+                        "T&T Shop cung cấp dịch vụ thiết kế website hiện đại, tối ưu SEO, dễ sử dụng.",
                 },
                 {
                     name: "twitter:image",
