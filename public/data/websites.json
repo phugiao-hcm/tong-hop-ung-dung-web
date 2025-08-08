@@ -200,11 +200,11 @@
     {
         "id": "dich-vu-quang-cao-x1",
         "title": "Website Dịch Vụ Thiết Kế Banner Quảng Cáo Chuyên Nghiệp",
-        "price": 0,
+        "price": 1700000,
         "description": "Website giới thiệu dịch vụ thiết kế banner quảng cáo chuyên nghiệp, phục vụ đa dạng nền tảng như Facebook, Google, Website, Zalo và các kênh truyền thông khác. Cung cấp thông tin về quy trình làm việc, các mẫu banner đã thực hiện, bảng giá linh hoạt, đội ngũ thiết kế sáng tạo và thời gian hoàn thiện nhanh chóng. Nền tảng giúp khách hàng dễ dàng đặt thiết kế theo yêu cầu, nâng cao hiệu quả truyền thông và gia tăng độ nhận diện thương hiệu.",
         "image": "images/dich-vu-quang-cao-x1.png",
         "link": "https://phugiao-hcm.github.io/dich-vu-quang-cao-x1/",
-        "sold": false
+        "sold": true
     },
     {
         "id": "dich-vu-nau-an-x1",
