@@ -11,37 +11,65 @@ export default defineNuxtConfig({
             meta: [
                 {
                     name: "description",
-                    content: "Website Phú Giáo - Tổng hợp các ứng dụng web tiện ích, hữu ích cho người dùng cá nhân và doanh nghiệp.",
+                    content:
+                        "Website Phú Giáo - Tổng hợp các ứng dụng web tiện ích, hữu ích cho người dùng cá nhân và doanh nghiệp.",
                 },
                 {
-                    name: 'google-site-verification',
-                    content: 'XRR12va6BxhJbOExSUsWvGvZZ9wjdy1N85LFQDGYEeg',
+                    name: "google-site-verification",
+                    content: "XRR12va6BxhJbOExSUsWvGvZZ9wjdy1N85LFQDGYEeg",
                 },
                 {
                     name: "viewport",
                     content: "width=device-width, initial-scale=1",
                 },
-                    {
+                {
                     charset: "utf-8",
+                },
+                {
+                    property: "og:image",
+                    content:
+                        "https://phugiao-hcm.github.io/tong-hop-ung-dung-web/og-image.png",
+                },
+                {
+                    property: "og:url",
+                    content:
+                        "https://phugiao-hcm.github.io/tong-hop-ung-dung-web/",
+                },
+                {
+                    name: "twitter:card",
+                    content: "summary_large_image",
+                },
+                {
+                    name: "twitter:title",
+                    content: "Website Phú Giáo - Tổng hợp ứng dụng web",
+                },
+                {
+                    name: "twitter:description",
+                    content:
+                        "Website Phú Giáo - Tổng hợp các ứng dụng web tiện ích, hữu ích cho người dùng cá nhân và doanh nghiệp.",
+                },
+                {
+                    name: "twitter:image",
+                    content:
+                        "https://phugiao-hcm.github.io/tong-hop-ung-dung-web/og-image.png",
                 },
             ],
         },
     },
 
     modules: [
-        '@nuxtjs/sitemap',
-        '@nuxtjs/robots',
-        '@nuxtjs/seo', // nếu muốn dùng đầy đủ
+        "@nuxtjs/sitemap",
+        "@nuxtjs/robots",
+        "@nuxtjs/seo", // nếu muốn dùng đầy đủ
     ],
     // ✅ Đây là cấu hình mới đúng chuẩn
     site: {
-        url: 'https://phugiao-hcm.github.io', // 🔁 sửa đúng URL GitHub Pages của bạn
+        url: "https://phugiao-hcm.github.io", // 🔁 sửa đúng URL GitHub Pages của bạn
     },
     sitemap: {
-        sitemapName: 'sitemap.xml',
-        exclude: ['/admin/**'],
+        sitemapName: "sitemap.xml",
+        exclude: ["/admin/**"],
     },
-
 
     robots: {
         robotsTxt: false,
@@ -57,7 +85,7 @@ export default defineNuxtConfig({
     //     // "/", "/gioi-thieu", "/lien-he" // thêm các route tĩnh ở đây
     //     // ],
     // },
-  
+
     compatibilityDate: "2025-07-15",
     devtools: { enabled: true },
     css: ["~/assets/css/main.css"],
