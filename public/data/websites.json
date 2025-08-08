@@ -180,15 +180,6 @@
         "sold": true
     },
     {
-        "id": "portfolio-x1",
-        "title": "Website Hồ sơ năng lưc",
-        "price": 0,
-        "description": "Website hiển thi một bộ sưu tập các tác phẩm, dự án, thành tựu, và thông tin khác thể hiện năng lực, kỹ năng và kinh nghiệm của một cá nhân hoặc tổ chức trong một lĩnh vực cụ thể",
-        "image": "images/portfolio-x1.png",
-        "link": "https://phugiao-hcm.github.io/portfolio-x1/",
-        "sold": false
-    },
-    {
         "id": "thiet-ke-nha-x1",
         "title": "Website Giới Thiệu Dịch Vụ Thiết Kế Nhà Chuyên Nghiệp",
         "price": 5200000,
@@ -205,6 +196,15 @@
         "image": "images/dich-vu-quang-cao-x1.png",
         "link": "https://phugiao-hcm.github.io/dich-vu-quang-cao-x1/",
         "sold": true
+    },
+    {
+        "id": "wedding-x1",
+        "title": "Website Nhà hàng tiệc cưới",
+        "price": 0,
+        "description": "Website giới thiệu nhà hàng tiệc cưới, trình bày không gian sang trọng, các gói dịch vụ cưới, thực đơn, hình ảnh sự kiện, và thông tin liên hệ giúp khách hàng dễ dàng đặt tiệc và tham khảo.",
+        "image": "images/wedding-x1.png",
+        "link": "https://phugiao-hcm.github.io/wedding-x1/",
+        "sold": false
     },
     {
         "id": "dich-vu-nau-an-x1",
