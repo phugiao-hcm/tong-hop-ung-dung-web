@@ -200,11 +200,11 @@
     {
         "id": "wedding-x1",
         "title": "Website Nhà hàng tiệc cưới",
-        "price": 0,
+        "price": 3200000,
         "description": "Website giới thiệu nhà hàng tiệc cưới, trình bày không gian sang trọng, các gói dịch vụ cưới, thực đơn, hình ảnh sự kiện, và thông tin liên hệ giúp khách hàng dễ dàng đặt tiệc và tham khảo.",
         "image": "images/wedding-x1.png",
         "link": "https://phugiao-hcm.github.io/wedding-x1/",
-        "sold": false
+        "sold": true
     },
     {
         "id": "dich-vu-nau-an-x1",
