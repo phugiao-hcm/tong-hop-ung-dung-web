@@ -1,9 +1,28 @@
 <template>
+    <HeroSection />
+
     <div class="bg-gray-50 min-h-screen py-12 px-4">
-        <div class="max-w-7xl mx-auto">
+        <div class="max-w-7xl mx-auto" id="websiteListById">
             <h1 class="text-4xl font-bold text-center text-gray-800 mb-10">
                 ✨ Danh sách Website đang bán ✨
             </h1>
+            <!-- Bộ lọc dạng button -->
+            <div style="margin-bottom: 20px">
+                <el-button-group>
+                    <el-button
+                        v-for="option in filterOptions"
+                        :key="option.value"
+                        :type="
+                            selectedType === option.value
+                                ? 'primary'
+                                : 'default'
+                        "
+                        @click="selectedType = option.value"
+                    >
+                        {{ option.label }}
+                    </el-button>
+                </el-button-group>
+            </div>
 
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <WebsiteCard
@@ -18,6 +37,7 @@
 
 <script setup>
 import WebsiteCard from "../components/home/WebsiteCard.vue";
+import HeroSection from "../components/home/HeroSection.vue";
 const { data: websites } = await useFetch("/data/websites.json");
 
 useHead({

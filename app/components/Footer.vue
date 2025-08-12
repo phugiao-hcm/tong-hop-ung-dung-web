@@ -22,13 +22,8 @@
                         >
                     </li>
                     <li>
-                        <NuxtLink to="/" class="hover:text-blue-400"
+                        <NuxtLink to="/services" class="hover:text-blue-400"
                             >Dịch vụ</NuxtLink
-                        >
-                    </li>
-                    <li>
-                        <NuxtLink to="/" class="hover:text-blue-400"
-                            >Giới thiệu</NuxtLink
                         >
                     </li>
                     <li>
