@@ -5,7 +5,9 @@
         >
             <!-- Cột 1: Thông tin -->
             <div>
-                <h2 class="text-xl font-semibold mb-3">Kho Giao Diện Web</h2>
+                <h2 class="text-xl font-semibold mb-3">
+                    Thiết kế Website Phước Hòa
+                </h2>
                 <p class="text-gray-400 text-sm">
                     Cung cấp giao diện website đẹp, dễ chỉnh sửa và phù hợp cho
                     mọi ngành nghề tại Phú Giáo, Bình Dương.
@@ -64,8 +66,8 @@
         <div
             class="text-center text-gray-500 text-sm mt-10 border-t border-gray-700 pt-4"
         >
-            © {{ new Date().getFullYear() }} Kho Giao Diện Web. All rights
-            reserved.
+            © {{ new Date().getFullYear() }} Thiết kế Website Phước Hòa. All
+            rights reserved.
         </div>
     </footer>
 </template>
