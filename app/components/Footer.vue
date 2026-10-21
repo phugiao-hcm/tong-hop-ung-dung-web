@@ -6,7 +6,7 @@
             <!-- Cột 1: Thông tin -->
             <div>
                 <h2 class="text-xl font-semibold mb-3">
-                    Thiết kế Website Phước Hòa
+                    Thiết kế Website Phú Giáo
                 </h2>
                 <p class="text-gray-400 text-sm">
                     Cung cấp giao diện website đẹp, dễ chỉnh sửa và phù hợp cho
@@ -40,7 +40,7 @@
             <div>
                 <h2 class="text-xl font-semibold mb-3">Liên hệ</h2>
                 <ul class="text-gray-300 text-sm space-y-2">
-                    <li>📍 Phước Hòa, Phú Giáo, Bình Dương</li>
+                    <li>📍 xã Phước Hòa, TP. Hồ Chí Minh</li>
                     <li>
                         📞
                         <a
@@ -66,7 +66,7 @@
         <div
             class="text-center text-gray-500 text-sm mt-10 border-t border-gray-700 pt-4"
         >
-            © {{ new Date().getFullYear() }} Thiết kế Website Phước Hòa. All
+            © {{ new Date().getFullYear() }} Thiết kế Website Phú Giáo. All
             rights reserved.
         </div>
     </footer>
