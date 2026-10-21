@@ -5,7 +5,7 @@
         >
             <!-- Logo -->
             <NuxtLink to="/" class="text-2xl font-bold text-white">
-                T&T Thiết kế<span class="text-yellow-400"> Website</span>
+                Thiết kế<span class="text-yellow-400"> Website</span>
             </NuxtLink>
 
             <!-- Desktop Menu -->

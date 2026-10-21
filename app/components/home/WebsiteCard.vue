@@ -35,7 +35,8 @@
                 <div class="flex justify-between items-center mb-1">
                     <span class="text-sm text-gray-500">Giá bán</span>
                     <span class="text-lg font-bold text-red-600">
-                        {{ formatPrice(site.price) }}
+                        <!-- {{ formatPrice(site.price) }} -->
+                        Liên hệ
                     </span>
                 </div>
                 <div class="flex justify-between items-center">

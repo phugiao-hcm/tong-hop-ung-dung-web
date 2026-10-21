@@ -4,7 +4,7 @@
     <div class="bg-gray-50 min-h-screen py-12 px-4">
         <div class="max-w-7xl mx-auto" id="websiteListById">
             <h1 class="text-4xl font-bold text-center text-gray-800 mb-10">
-                ✨ Danh sách Website đang bán ✨
+                ✨ Danh sách Website đang hoạt động ✨
             </h1>
             <!-- Bộ lọc dạng button -->
             <div style="margin-bottom: 20px">

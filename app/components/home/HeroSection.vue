@@ -22,7 +22,7 @@
                         to="#contact"
                         class="bg-yellow-400 text-gray-900 font-semibold px-6 py-3 rounded-full hover:bg-yellow-300 transition"
                     >
-                        Liên hệ (Tư vấn miễn phí)
+                        Liên hệ (Miễn phí)
                     </NuxtLink>
                     <NuxtLink
                         to="#websiteListById"

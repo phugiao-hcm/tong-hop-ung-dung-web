@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     app: {
         baseURL: "/tong-hop-ung-dung-web/", // ⚠️ thay <REPO_NAME> bằng tên repo của bạn
         head: {
-            title: "T&T Shop - Thiết kế website chuyên nghiệp",
+            title: "Shop - Thiết kế website chuyên nghiệp",
             meta: [
                 {
                     name: "google-site-verification",
@@ -18,21 +18,21 @@ export default defineNuxtConfig({
                 {
                     name: "description",
                     content:
-                        "T&T Shop cung cấp dịch vụ thiết kế website chuyên nghiệp cho cá nhân và doanh nghiệp. Giao diện hiện đại, chuẩn SEO, dễ quản lý, giá hợp lý.",
+                        "Shop cung cấp dịch vụ thiết kế website chuyên nghiệp cho cá nhân và doanh nghiệp. Giao diện hiện đại, chuẩn SEO, dễ quản lý, giá hợp lý.",
                 },
                 {
                     name: "keywords",
                     content:
-                        "T&T Shop, thiết kế website, thiết kế web doanh nghiệp, làm web cá nhân, giao diện đẹp, chuẩn SEO",
+                        "Shop, thiết kế website, thiết kế web doanh nghiệp, làm web cá nhân, giao diện đẹp, chuẩn SEO",
                 },
                 {
                     property: "og:title",
-                    content: "T&T Shop - Thiết kế website chuyên nghiệp",
+                    content: "Shop - Thiết kế website chuyên nghiệp",
                 },
                 {
                     property: "og:description",
                     content:
-                        "T&T Shop chuyên thiết kế website cho cá nhân và doanh nghiệp.",
+                        "Shop chuyên thiết kế website cho cá nhân và doanh nghiệp.",
                 },
 
                 // Viewport
@@ -51,7 +51,7 @@ export default defineNuxtConfig({
                 },
                 {
                     property: "og:title",
-                    content: "T&T Shop - Thiết kế website chuyên nghiệp",
+                    content: "Shop - Thiết kế website chuyên nghiệp",
                 },
                 {
                     property: "og:description",
@@ -76,12 +76,12 @@ export default defineNuxtConfig({
                 },
                 {
                     name: "twitter:title",
-                    content: "T&T Shop - Thiết kế website chuyên nghiệp",
+                    content: "Shop - Thiết kế website chuyên nghiệp",
                 },
                 {
                     name: "twitter:description",
                     content:
-                        "T&T Shop cung cấp dịch vụ thiết kế website hiện đại, tối ưu SEO, dễ sử dụng.",
+                        "Shop cung cấp dịch vụ thiết kế website hiện đại, tối ưu SEO, dễ sử dụng.",
                 },
                 {
                     name: "twitter:image",
